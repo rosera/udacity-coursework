@@ -29,6 +29,8 @@ for website hosting and secure it using IAM policies. Next, you will speed up co
 content distribution network service, CloudFront. Lastly, you will access your website in a browser using 
 the unique CloudFront endpoint.
 
+[Udacity Starter Kit](https://drive.google.com/file/d/15vQ7-utH7wBJzdAX3eDmO9ls35J5_sEQ/view)
+
 ## 2. Full Stack Apps on AWS
 
 ### Project - Udagram: Your Own Instagram on AWS
